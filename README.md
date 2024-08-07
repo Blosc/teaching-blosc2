@@ -1,2 +1,2 @@
-# teaching-blosc2
+# Teaching Blosc2
 Teaching materials for Blosc2
